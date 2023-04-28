@@ -33,6 +33,10 @@ https://live.v1.mk/api/cqyx.php?id=jinyingSD
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023042310568.m3u8?by=yeslivetv_com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="凤凰卫视",凤凰卫视资讯台
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023042119282.m3u8?by=yeslivetv_com
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台(backup)",翡翠台
+https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台(backup)",翡翠台
+https://epg.pw/stream/1fbab856b95f1ee5eed372ecef4a3c30b658c4e39a73734f0292ce7635ac0248.ctv
 
 
 
