@@ -17,7 +17,7 @@ http://r.jdshipin.com/vSJvl
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023041310451.m3u8
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东台",广东卫视高清
 https://live.v1.mk/api/cqyx.php?id=guangdongHD
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="珠江频道" group-title="广东台",珠江频道(18:00新闻/21:00今日关注)
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="珠江频道" group-title="广东台",广东珠江(18:00新闻/21:00今日关注)
 http://yzfvip.top:8000/rtp/239.77.0.114:5146
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视高清
 https://live.v1.mk/api/cqyx.php?id=jiangsuHD
