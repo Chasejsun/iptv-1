@@ -27,7 +27,7 @@ https://live.v1.mk/api/cqyx.php?id=zhejiangHD
 https://live.v1.mk/api/cqyx.php?id=zhejiangHD
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视高清
 https://live.v1.mk/api/cqyx.php?id=hunanHD
-#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="卫视",金鹰卡通高清
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="卫视",金鹰卡通高清
 https://live.v1.mk/api/cqyx.php?id=jinyingSD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="凤凰卫视",凤凰卫视中文台
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023042310568.m3u8?by=yeslivetv_com
