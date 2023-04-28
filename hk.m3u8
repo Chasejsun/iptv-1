@@ -19,8 +19,10 @@ https://pull-l3-cny.douyincdn.com/live/stream-19882782023041310451.m3u8
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023042310568.m3u8?by=yeslivetv_com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="凤凰卫视",凤凰卫视资讯台
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023042119282.m3u8?by=yeslivetv_com
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视高清
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东台",广东卫视高清
 https://live.v1.mk/api/cqyx.php?id=guangdongHD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="珠江频道" group-title="广东台",珠江频道
+http://yzfvip.top:8000/rtp/239.77.0.114:5146
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视高清
 https://live.v1.mk/api/cqyx.php?id=jiangsuHD
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视高清
@@ -29,7 +31,7 @@ https://live.v1.mk/api/cqyx.php?id=zhejiangHD
 https://live.v1.mk/api/cqyx.php?id=zhejiangHD
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视高清
 https://live.v1.mk/api/cqyx.php?id=hunanHD
-#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="其他",金鹰卡通高清
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="卫视",金鹰卡通高清
 https://live.v1.mk/api/cqyx.php?id=jinyingSD
 
 
