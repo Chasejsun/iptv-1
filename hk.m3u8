@@ -13,7 +13,7 @@ http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOX
 https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="广东珠江" group-title="广东台",广东珠江(18:00新闻/21:00今日关注)
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=gdzhujiangHD_7500
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" tvg-id="6016" tvg-name="广东新闻" group-title="地方台",广东新闻频道
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" tvg-id="6016" tvg-name="广东新闻" group-title="广东台",广东新闻频道
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1454_4500
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="(Astro)翡翠华丽台" group-title="港台",翡翠华丽台
 http://r.jdshipin.com/thuYX
@@ -31,7 +31,7 @@ http://r.jdshipin.com/vSJvl
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023041310451.m3u8
 #EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="卫视",金鹰卡通高清
 https://live.goodiptv.club/api/sxg.php?id=jykt_2000
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" tvg-id="7253" tvg-name="广东少儿" group-title="卫视",广东少儿频道
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" tvg-id="7253" tvg-name="广东少儿" group-title="广东",广东少儿频道
 http://192.168.2.1:1111/489.ts
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" tvg-id="1964" tvg-name="劲爆体育" group-title="体育台",劲爆体育
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=jinbaotiyuHD_7000
