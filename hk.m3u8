@@ -14,7 +14,7 @@ http://xjayrf.eatuo.com:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东台",广东卫视高清
 https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" tvg-id="6016" tvg-name="广东新闻" group-title="广东台",广东新闻频道
-http://ct.whosayssowhat.top:4022/udp/239.77.0.173:5146
+http://live.cooltv.top/tv/gd.php?id=gdxw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="(Astro)翡翠华丽台" group-title="港台",翡翠华丽台
 http://r.jdshipin.com/thuYX
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港台",明珠台
