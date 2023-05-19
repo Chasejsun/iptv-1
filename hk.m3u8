@@ -29,7 +29,9 @@ https://pull-l3-cny.douyincdn.com/live/stream-15682782023042400546.m3u8
 http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港台",VIUTV6
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023041310451.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台" group-title="台湾",纬来体育台
+#EXTINF:-1 tvg-name="咪咕体育-4K源-2" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="体育台",咪咕体育-4K源-2
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台" group-title="体育台",纬来体育台
 rtmp://119.81.124.89:1935/sat/tv721
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" tvg-id="1964" tvg-name="劲爆体育" group-title="体育台",劲爆体育
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=jinbaotiyuHD_7000
