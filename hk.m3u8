@@ -37,5 +37,7 @@ rtmp://119.81.124.89:1935/sat/tv721
 https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" tvg-id="6013" tvg-name="广东体育" group-title="体育台",广东体育频道
 http://xjayrf.eatuo.com:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台(备用)" group-title="翡翠台",翡翠台
+http://r.jdshipin.com/qrfbg
 
 
