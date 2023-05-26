@@ -28,8 +28,10 @@ http://r.jdshipin.com/thuYX
 http://r.jdshipin.com/ZQ4kN 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-id="416" tvg-name="J2" group-title="港台",J2
 http://r.jdshipin.com/Nr5jq
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港台",无线新闻台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港台",无线新闻台(1)
 http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港台",无线新闻台(2)
+http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" tvg-id="7117" tvg-name="香港国际财经台" group-title="港台",香港国际财经台
 https://pull-l3-cny.douyincdn.com/live/stream-15682782023042400546.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港台",ViuTV
