@@ -3,6 +3,8 @@
 http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台广电版
 http://r.jdshipin.com/qClQf
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视（fanmingming）
+https://cntv.sbs/live?auth=230612&id=jsws
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 #https://live.goodiptv.club/api/yqgd.php?id=jswshd
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
