@@ -16,7 +16,7 @@ https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="广东珠江" group-title="广东台",广东珠江(18:00新闻/21:00今日关注)
-#http://live.cooltv.top/tv/gd.php?id=gdzj
+http://60.208.16.27:1505/gudou.php?id=364&id=gdzhujiangHD_7500
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" tvg-id="6016" tvg-name="广东新闻" group-title="广东台",广东新闻频道
 #http://live.cooltv.top/tv/gd.php?id=gdxw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="(Astro)翡翠华丽台" group-title="港台",翡翠华丽台
