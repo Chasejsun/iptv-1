@@ -1,26 +1,20 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台(星视界)
-https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台1
 http://107.167.12.58:27347/livehttpplay?channel_id=20127
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台2
+http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港台",无线新闻台
 http://107.167.12.58:27347/livehttpplay?channel_id=30024
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港台",无线新闻台1
 #https://epg.pw/stream/19d1cd44fca23238190d5ada7b08552382bf391f77d6b4348f3e3ae56afe7c9f.m3u8
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视(星视界)
-https://dispatchnew.ulivetv.net/v/live/cgwvmpf84bsw.m3u8?stream_id=cgwvmpf84bsw&token=c0vzuc7wqkzk
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视2
 #http://61.138.167.36:9901/tsfile/live/0127_1.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视3
 #https://cntv.sbs/tv?auth=230813&id=jsws
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视（星视界）
-https://dispatchnew.ulivetv.net/v/live/cgwvl62c4og0.m3u8?stream_id=cgwvl62c4og0&token=c0vzuc7wqkzk
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="广东珠江" group-title="广东台",广东珠江星视界(18:00新闻/21:00今日关注)
-https://dispatchnew.ulivetv.net/v/live/ckwku6d5hgw0.m3u8?stream_id=ckwku6d5hgw0&token=c0vzuc7wqkzk
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="广东珠江" group-title="广东台",广东珠江(18:00新闻/21:00今日关注)
 #https://php.17186.eu.org/gdtv/gdzj.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" tvg-id="6016" tvg-name="广东新闻" group-title="广东台",广东新闻频道
@@ -38,11 +32,9 @@ http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台3
 http://www.namewee.xyz/gudou.php?id=1350
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台4
-http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台5
 #http://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="卫视",广东体育
-https://dispatchnew.ulivetv.net/v/live/cgxanasc9q68.m3u8?stream_id=cgxanasc9q68&token=c0vzuc7wqkzk
+#https://dispatchnew.ulivetv.net/v/live/cgxanasc9q68.m3u8?stream_id=cgxanasc9q68&token=c0vzuc7wqkzk
 
 
 
