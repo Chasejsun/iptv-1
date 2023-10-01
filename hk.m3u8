@@ -48,6 +48,8 @@ http://www.namewee.xyz/gudou.php?id=1350
 #http://r.jdshipin.com/qrfbg
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="卫视",广东体育
 #http://202304151212.iptv.z-link.cn:8800/tsfile/live/1004_1.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="体育台",CCTV5
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 
 
 
