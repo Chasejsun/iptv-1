@@ -56,10 +56,11 @@ http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
 #https://cntv.sbs/tv?auth=231013&id=cctv5p
 #EXTINF:-1 tvg-id="TVBJade" tvg-name="華麗(翡翠台)" tvg-logo="https://www.stream-link.org/tv_logo/astro_jade.png" group-title="Astro",華麗(翡翠台)
 https://sc2022.stream-link.org/tv2306.php?id=h00
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台（备用）
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台（备用1）
 https://sc2022.stream-link.org/tv2306.php?id=h01
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台（备用）
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台（备用2）
 https://sc2022.stream-link.org/tv2306.php?id=h02
-
+#EXTINF:-1 tvg-id="416" tvg-name="J2台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台（备用）
+https://sc2022.stream-link.org/tv2306.php?id=h03
 
 
