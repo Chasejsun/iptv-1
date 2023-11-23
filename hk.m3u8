@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台(HK）
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台（HK）
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台(HK1）
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台 GD1）
 http://r.jdshipin.com/n90gt
@@ -7,19 +9,20 @@ http://r.jdshipin.com/n90gt
 http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台（GD3）
 http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台（HK1）
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #https://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台（HK2）
-#https://sc2022.stream-link.org/tv2306.php?id=h01
+https://sc2022.stream-link.org/tv2306.php?id=h01
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台（GD4）
 #http://www.namewee.xyz/gudou.php?id=1350
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视1
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视2
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视3
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+#
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视4
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视5
 #http://111.40.196.30:443/PLTV/88888888/224/3221225596/1.m3u8
 #http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
