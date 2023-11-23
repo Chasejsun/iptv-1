@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台（HK）
-https://sc2022.stream-link.org/tv2306.php?id=h01
+#https://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台(HK1）
 #http://r.jdshipin.com/62WM7
 #http://r.jdshipin.com/qrfbg
