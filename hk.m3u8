@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台（HK）
 https://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台(HK1）1
-http://r.jdshipin.com/62WM7
+#http://r.jdshipin.com/62WM7
 #http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台 GD1）
 http://r.jdshipin.com/n90gt
@@ -12,9 +12,9 @@ http://r.jdshipin.com/n90gt
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
 #http://111.40.196.30:443/PLTV/88888888/224/3221225596/1.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视2
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
+#http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视3
-#https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=jiangsuHD
+https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=jiangsuHD
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视4
 #https://cntv.sbs/tv?auth=2309081833&id=jsws
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
