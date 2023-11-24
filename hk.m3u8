@@ -65,8 +65,6 @@ http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
 #https://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台（备用2）
 #https://sc2022.stream-link.org/tv2306.php?id=h02
-#EXTINF:-1 tvg-id="416" tvg-name="J2台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台（备用）
-#https://sc2022.stream-link.org/tv2306.php?id=h03
 XTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台（HK1）
 #https://sc2022.stream-link.org/tv2306.php?id=h02
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台（HK2）
