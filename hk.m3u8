@@ -41,7 +41,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #http://111.40.196.28:443/PLTV/88888888/224/3221225510/1.m3u8
 #EXTINF:-1 tvg-id="111" tvg-name="豆瓣250电影" group-title="豆瓣",豆瓣250
 http://43.138.170.29:35455/douyu/8770422
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="(Astro)翡翠华丽台" group-title="港台",翡翠华丽台
+#EXTINF:-1 tvg-id="TVBJade" tvg-name="華麗(翡翠台)" tvg-logo="https://www.stream-link.org/tv_logo/astro_jade.png" group-title="Astro",華麗(翡翠台)
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港台",明珠台
 http://r.jdshipin.com/ZQ4kN
