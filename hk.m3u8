@@ -33,6 +33,8 @@ http://58.223.161.43/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist
 #http://111.40.196.35:443/PLTV/88888888/224/3221225521/1.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="卫视",广东民生
+https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=4c5cbe87151c08e6d98dde36b1fe568a-N7rn%2BnDW2y%2FOMnqWPxduXyL6vGKks0tNJa3xPfOSLUGH85Y%2FFgYPnv674PhuoBDGW1YvAHsquNsbrVwh7mzh%2FowTIA9b5NUaNYlkubAzMT%2FDAjubyXHG1Pu5VbcALtMwCBeIWTlp2VgZWICLPF4Qg%2BtoHen1YbxsAgSIoTVdwTlFLab8OmR42Q9UwiuS6H9pFTfHuUWP87SmZf0QrG4OFmp%2BOvITZwf7%2FSNzx1pWaPIzAxzKfMU9cc4gjGJVQ3hlHl9CYpXZtjr2JdrqsVlDQ5LxTgs991DPuxmI00jKU1PaMweI5kAIyx3HIU0Vi2OJLePFhSQ3iLMzX1BaqgZvUw%2BC5EWPiyfi9ckwYE%2BzIQBDueb%2FskqumU1yfIwFlgHMLl%2FF4YPm3HDFvJnzxCCfzg%3D%3D
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视（移动网络）
 #http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
