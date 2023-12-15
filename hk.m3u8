@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-id="111" tvg-name="周星驰电影" group-title="周星驰",周星驰电影
+#EXTINF:-1 tvg-id="111" tvg-name="周星驰电影" group-title="周星驰",周星驰
 https://epg.pw/stream/fc73904b30181d1c79c116b1bd3872b24afe9540eb62dc91ff343bd05b086332.ctv
 #EXTINF:-1 tvg-id="111" tvg-name="周星驰电影" group-title="周星驰",周星驰电影（普通话）
 #https://live.metshop.top/huya/11342412
-#EXTINF:-1 tvg-id="111" tvg-name="爱情公寓" group-title="爱情公寓",爱情公寓（虎牙）
+#EXTINF:-1 tvg-id="111" tvg-name="爱情公寓" group-title="爱情公寓",爱情公寓
 https://live.metshop.top/huya/11336726
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台(GD）
 http://r.jdshipin.com/qClQf
