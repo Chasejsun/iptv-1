@@ -34,7 +34,7 @@ http://58.223.161.43/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="卫视",广东民生
-https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=4c5cbe87151c08e6d98dde36b1fe568a-N7rn%2BnDW2y%2FOMnqWPxduXyL6vGKks0tNJa3xPfOSLUGH85Y%2FFgYPnv674PhuoBDGW1YvAHsquNsbrVwh7mzh%2FowTIA9b5NUaNYlkubAzMT%2FDAjubyXHG1Pu5VbcALtMwCBeIWTlp2VgZWICLPF4Qg%2BtoHen1YbxsAgSIoTVdwTlFLab8OmR42Q9UwiuS6H9pFTfHuUWP87SmZf0QrG4OFmp%2BOvITZwf7%2FSNzx1pWaPIzAxzKfMU9cc4gjGJVQ3hlHl9CYpXZtjr2JdrqsVlDQ5LxTgs991DPuxmI00jKU1PaMweI5kAIyx3HIU0Vi2OJLePFhSQ3iLMzX1BaqgZvUw%2BC5EWPiyfi9ckwYE%2BzIQBDueb%2FskqumU1yfIwFlgHMLl%2FF4YPm3HDFvJnzxCCfzg%3D%3D
+#
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视（移动网络）
 #http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
@@ -73,7 +73,6 @@ https://php.17186.eu.org/gdtv/gdzj.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" tvg-id="6016" tvg-name="广东新闻" group-title="广东台",广东新闻频道
 #http://live.cooltv.top/tv/gd.php?id=gdxw
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="卫视",广东体育
-https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=c59353765ebbc28d0d3c72d7840fa95f-o30u4y6DlELkjuhP6NdZ7o69uuGXDmAJOzu4XoDVg%2BHU4xzhh4xdlpaPO%2FrKfPohIYWxKAaqmehBx4AQnv7WXkHye20lO490NAxWnIGc1T2ecs4tFzUfi%2BbPcJI0WJSaMtdc%2B4rNom7UjxgcBrNnq39g8wipM3SZDoPwqdM9mIGRy4J6sXLPLO82Wxs8iV%2FnCq%2Bh417GYVRx%2FzWExRhAoIvxFAU%2BFcsvF0YxBvyKUHMIpch8UOICqnFxYhzRxzoa6NiP89Af8g8wfXnDLuAPWg4wEAD8u7lZYp%2FE5OdJDNJOKd8XMP8xF%2FB9nxV6makYuELOGlqqaQJGEc04giMMpxEP4mdvqKICByLin9Kje49Ojr5VrI0pAPzCokYHhMPd5i45QJV4upE%2F9ZTlHizfgQ%3D%3D
 #http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 #http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
 
