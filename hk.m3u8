@@ -69,7 +69,9 @@ http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/t
 #http://202304151212.iptv.z-link.cn:8800/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="广东珠江" group-title="广东台",广东珠江(18:00新闻/21:00今日关注)
 #http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
-https://php.17186.eu.org/gdtv/gdzj.m3u8
+#https://php.17186.eu.org/gdtv/gdzj.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="广东珠江" group-title="广东台",广东珠江(18:00新闻/21:00今日关注)
+http://php.jdshipin.com:8880/chudian.php?id=gdzj
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" tvg-id="6016" tvg-name="广东新闻" group-title="广东台",广东新闻频道
 #http://live.cooltv.top/tv/gd.php?id=gdxw
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="卫视",广东体育
