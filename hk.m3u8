@@ -48,7 +48,7 @@ http://hksc.vnetidc.hk:61282/bysid/83
 #http://107.167.12.58:27347/livehttpplay?channel_id=30024
 #http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港台",无线新闻台1
-#
+http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港台",ViuTV
 http://hksc.vnetidc.hk:61281/bysid/99
 #https://sc2024.stream-link.org/tv2306.php?id=h09
