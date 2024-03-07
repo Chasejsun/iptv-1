@@ -1,14 +1,16 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台
 http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
-#http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
-#http://202.168.187.208:2024/tsfile/live/1006_1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",华丽翡翠台
-http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台1
 http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台2
-https://www.ooot.fun/dxzb.php/?id=224.1.100.121:11111
+#https://www.ooot.fun/dxzb.php/?id=224.1.100.121:11111
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台3
+#https://www.ooot.fun/dxzb.php/?id=224.1.100.121:11111
+#http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",华丽翡翠台
+http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
+
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 #
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视 
@@ -19,46 +21,22 @@ https://www.ooot.fun/dxzb.php/?id=224.1.100.121:11111
 #
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 #
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="广东珠江" group-title="广东台",广东珠江(18:00新闻/21:00今日关注)
-http://php.jdshipin.com:8880/chudian.php?id=gdzj
-#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东台",广东民生
-http://php.jdshipin.com:8880/chudian.php?id=gdms
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视（移动）
-#http://39.134.66.110/PLTV/88888888/224/3221225938/index.m3u8
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视（移动）
-#http://39.134.65.166/PLTV/88888888/224/3221225506/index.m3u8
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视 （移动）
-#http://39.134.65.179/PLTV/88888888/224/3221225514/index.m3u8
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视（移动）
-#http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
-#https://live3.rxip.sc96655.com/live/gdwsH265.m3u8
-#http://58.223.161.43/live.aishang.ctlcdn.com/00000110240137_1/encoder/0/playlist.m3u8?CONTENTID=00000110240137_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR&areano=140800
-#EXTINF:-1 tvg-id="111" tvg-name="豆瓣250电影" group-title="豆瓣",豆瓣250
-http://43.138.170.29:35455/douyu/8770422
 #EXTINF:-1 tvg-id="TVBJade" tvg-name="華麗(翡翠台)" tvg-logo="https://www.stream-link.org/tv_logo/astro_jade.png" group-title="Astro",華麗(翡翠台)
 #
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港台",明珠台
-#http://hksc.vnetidc.hk:61282/bysid/2
 http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港台",明珠台
-https://www.ooot.fun/dxzb.php/?id=224.1.100.123:11111
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港台",无线新闻台
-#http://hksc.vnetidc.hk:61282/bysid/83
-#http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-#http://107.167.12.58:27347/livehttpplay?channel_id=30024
-#http://live.cooltv.top/tv/tvb.php?id=0&hq
+#https://www.ooot.fun/dxzb.php/?id=224.1.100.123:11111
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港台",无线新闻台
 http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港台",无线新闻台
+#
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港台",ViuTV
 http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
 #http://hksc.vnetidc.hk:61281/bysid/99
-#https://sc2024.stream-link.org/tv2306.php?id=h09
-#http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-id="416" tvg-name="J2" group-title="港台",J2
 http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 #http://hksc.vnetidc.hk:61282/bysid/82
-#http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="广东珠江" group-title="广东台",广东珠江(18:00新闻/21:00今日关注)
 #http://202304151212.iptv.z-link.cn:8800/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="广东珠江" group-title="广东台",广东珠江(18:00新闻/21:00今日关注)
@@ -72,7 +50,12 @@ http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvx
 #
 #EXTINF:-1 tvg-id="111" tvg-name="爱情公寓" group-title="爱情公寓",爱情公寓
 #https://live.metshop.top/huya/11336726
-#http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-#http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
-
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="广东珠江" group-title="广东台",广东珠江(18:00新闻/21:00今日关注)
+http://php.jdshipin.com:8880/chudian.php?id=gdzj
+#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东台",广东民生
+http://php.jdshipin.com:8880/chudian.php?id=gdms
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+#https://live3.rxip.sc96655.com/live/gdwsH265.m3u8
+#EXTINF:-1 tvg-id="111" tvg-name="豆瓣250电影" group-title="豆瓣",豆瓣250
+http://43.138.170.29:35455/douyu/8770422
 
