@@ -2,7 +2,10 @@
 #EXTINF:-1 tvg-id="J" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",tvg-name="翡翠台" group-title="翡翠台",翡翠台台标测试
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
-https://mytvsuper.livednow.com/J
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_
+J_hevc/__op/cenc_m/__f/index.mpd?sig=b1024502ad4bfb93e7789025
+7247c1b2&ext_start_limit=1710378018&int_start_limit=171037801
+8&ts=1710378018&c=850464580
 #EXTINF:-1 tvg-id="CWIN" tvg-logo="",SUPER FREE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
