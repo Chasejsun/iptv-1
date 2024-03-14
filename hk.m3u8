@@ -11,6 +11,14 @@
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
 #http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=671c25a17145265478688ab2762c5351&ext_start_limit=1710427036&int_start_limit=1710427036&ts=1710427036&c=850464580
 
+#EXTINF:-1 tvg-id="JUHD" tvg-logo="",翡翠台 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2c045f5adb26d391cc41cd01f00416fa&key=fc146771a9b096fc4cb57ffe769861be
+https://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_
+J_hevc/__op/cenc_m/__f/index.mpd?sig=28437eb6a052370adeed7925
+925087e9&ext_start_limit=1710480097&int_start_limit=171048009
+7&ts=1710480097&c=850464580
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台2
 #http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台
