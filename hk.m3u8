@@ -12,11 +12,11 @@
 #http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=671c25a17145265478688ab2762c5351&ext_start_limit=1710427036&int_start_limit=1710427036&ts=1710427036&c=850464580
 https://mytvsuper.livednow.com/J
 
-#EXTINF:-1 tvg-id="J" tvg-logo="",翡翠台 4K666
+#EXTINF:-1 tvg-id="J" tvg-logo="",翡翠台 普通
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0958b9c657622c465a6205eb2252b8ed&key=2d2fd7b1661b1e28de38268872b48480
-https://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_
 J_hevc/__op/cenc_m/__f/index.mpd?sig=457ddae7b45330a3eb96ec24
 93e66722&ext_start_limit=1710481493&int_start_limit=171048149
 3&ts=1710481493&c=850464580
