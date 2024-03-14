@@ -10,3 +10,10 @@
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0958b9c657622c465a6205eb2252b8ed&key=2d2fd7b1661b1e28de38268872b48480
 #EXTINF:-1,翡翠台888
 https://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=457ddae7b45330a3eb96ec2493e66722&ext_start_limit=1710481493&int_start_limit=1710481493&ts=1710481493&c=850464580
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CVi5xldiLEZaYgXrIlK47Q","k":"LS/XsWYbHijeOCaIcrSEgA"}],"type":"temporary"}
+#EXTINF:-1,翡翠台999
+https://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=457ddae7b45330a3eb96ec2493e66722&ext_start_limit=1710481493&int_start_limit=1710481493&ts=1710481493&c=850464580
