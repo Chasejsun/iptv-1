@@ -22,6 +22,8 @@ J_hevc/__op/cenc_m/__f/index.mpd?sig=457ddae7b45330a3eb96ec24
 3&ts=1710481493&c=850464580
 
 #EXTINF:-1 tvg-id="J" tvg-logo="",翡翠台 4K777
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台mytv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0958b9c657622c465a6205eb2252b8ed&key=2d2fd7b1661b1e28de38268872b48480
