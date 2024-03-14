@@ -2,8 +2,8 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CVi5xldiLEZaYgXrIlK47Q","k":"LS/XsWYbHijeOCaIcrSEgA"}],"type":"temporary"}
-#EXTINF:-1,翡翠台转化key
-https://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_
+#EXTINF:-1,翡翠台转化 k
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_
 J_hevc/__op/cenc_m/__f/index.mpd?sig=361fc7842d4b696d04c769ee
 96a380fa&ext_start_limit=1710491010&int_start_limit=171049101
 0&ts=1710491010&c=850464580
