@@ -2,11 +2,11 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CVi5xldiLEZaYgXrIlK47Q","k":"LS/XsWYbHijeOCaIcrSEgA"}],"type":"temporary"}
-#EXTINF:-1,翡翠台转化 k
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_
-J_hevc/__op/cenc_m/__f/index.mpd?sig=361fc7842d4b696d04c769ee
-96a380fa&ext_start_limit=1710491010&int_start_limit=171049101
-0&ts=1710491010&c=850464580
+#EXTINF:-1,翡翠台转化kkk
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_
+J_hevc/__op/cenc_m/__f/index.mpd?sig=457197a57f184c7c83e34962
+bffa7d3a&ext_start_limit=1710491646&int_start_limit=171049164
+6&ts=1710491646&c=850464580
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台mytv livednow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
