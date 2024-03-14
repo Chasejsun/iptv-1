@@ -3,7 +3,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2d2fd7b1661b1e28de38268872b48480&key=0958b9c657622c465a6205eb2252b8ed
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=7f128dad5b5042b51fbc7ff24120ff7b&ext_start_limit=1710432945&int_start_limit=1710432945&ts=1710432945&c=850464580#EXTINF:-1 tvg-id="J" tvg-logo="",翡翠台22222 key:value
+#http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=7f128dad5b5042b51fbc7ff24120ff7b&ext_start_limit=1710432945&int_start_limit=1710432945&ts=1710432945&c=850464580#EXTINF:-1 tvg-id="J" tvg-logo="",翡翠台22222 key:value
 
 #EXTINF:-1,翡翠台222
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -21,6 +21,7 @@ https://www.ooot.fun/dxzb.php/?id=224.1.100.121:11111
 #https://www.ooot.fun/dxzb.php/?id=224.1.100.121:11111
 #http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",华丽翡翠台
+http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 #http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 #
