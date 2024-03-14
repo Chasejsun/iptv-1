@@ -1,21 +1,8 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-id="JUHD" tvg-logo="",翡翠台333111 vercel网址
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2d2fd7b1661b1e28de38268872b48480&key=0958b9c657622c465a6205eb2252b8ed
-#http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=7f128dad5b5042b51fbc7ff24120ff7b&ext_start_limit=1710432945&int_start_limit=1710432945&ts=1710432945&c=850464580#EXTINF:-1 tvg-id="J" tvg-logo="",翡翠台22222 key:value
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0958b9c657622c465a6205eb2252b8ed&key=2d2fd7b1661b1e28de38268872b48480
-#EXTINF:-1,翡翠台888
-https://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=457ddae7b45330a3eb96ec2493e66722&ext_start_limit=1710481493&int_start_limit=1710481493&ts=1710481493&c=850464580
-
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CVi5xldiLEZaYgXrIlK47Q","k":"LS/XsWYbHijeOCaIcrSEgA"}],"type":"temporary"}
-#EXTINF:-1,翡翠台99999
+#EXTINF:-1,翡翠台转化ke
 https://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_
 J_hevc/__op/cenc_m/__f/index.mpd?sig=2d8723dd578341b5c7d565b6
 29f2528e&ext_start_limit=1710486332&int_start_limit=171048633
