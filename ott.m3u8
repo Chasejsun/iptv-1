@@ -9,8 +9,7 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CVi5xldiLEZaYgXrIlK47Q","k":"LS/XsWYbHijeOCaIcrSEgA"}],"type":"temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=c127fb85477e27aa8a1edace7920e92e&ext_start_limit=1710520933&int_start_limit=1710520933&ts=1710520933&c=850464580
-
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=ce1c8d1b46f3c7f354dd59f5e6ea68d6&ext_start_limit=1710599203&int_start_limit=1710599203&ts=1710599203&c=850464580
 #EXTINF:-1 tvg-id="B" tvg-logo="",J23333
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
