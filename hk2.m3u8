@@ -3,7 +3,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CVi5xldiLEZaYgXrIlK47Q","k":"LS/XsWYbHijeOCaIcrSEgA"}],"type":"temporary"}
 #EXTINF:-1,翡翠台转化key1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=90d27b1f3caa7595b00557675010deb2&ext_start_limit=1710607271&int_start_limit=1710607271&ts=1710607271&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=060d2cb6f5924a2b5ff496a3500d1083&ext_start_limit=1710739565&int_start_limit=1710739565&ts=1710739565&c=850464580
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="翡翠台",翡翠台mytv livednow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
