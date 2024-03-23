@@ -54,7 +54,7 @@ http://111.173.81.3:3001/HK/wxxw/hls.m3u8
 #http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港台",ViuTV
 http://111.173.81.3:3001/HK/viu/hls.m3u8
-http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
+#http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
 #http://hksc.vnetidc.hk:61281/bysid/99
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-id="416" tvg-name="J2" group-title="港台",J2
 http://111.173.81.3:3001/HK/22/hls.m3u8
