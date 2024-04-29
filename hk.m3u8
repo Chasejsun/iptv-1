@@ -42,7 +42,8 @@ http://proxy.dfkj.live/alitv.php?u=min&id=11
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港台",明珠台
 #
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港台",无线新闻台
-http://proxy.dfkj.live/alitv.php?u=min&id=6
+#http://proxy.dfkj.live/alitv.php?u=min&id=6
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/bks/__f/index.m3u8?hdnea=ip=210.87.111.103~st=1714430050~exp=1714516450~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/bks/__f/*~hmac=ec0fea4cfaa504eaf928f9e1b7947d9bb64b44a80df143d68920edea09c22d3c&p=3324&mode=admarker,ticks
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港台",ViuTV
 http://proxy.dfkj.live/alitv.php?u=min&id=13
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="卫视",广东体育
